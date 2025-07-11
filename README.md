@@ -6,7 +6,7 @@
 
 ## About Me
 
-### Hi 👋 I'm Vanshika Srivastava,
+### Hi there  👋 I'm Vanshika Srivastava,
 
 A passionate tech enthusiast with a strong focus on **Cybersecurity**, along with interests in *Web Development, Java Programming, and Creative Problem Solving*.  
 Currently leveling up my skills through hands-on projects, college societies like **CSI UPES**, and a constant drive to learn and grow in both tech and life.
