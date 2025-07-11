@@ -30,7 +30,7 @@ Currently leveling up my skills through hands-on projects, college societies lik
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-username**&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika93355&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,3 +45,4 @@ Currently leveling up my skills through hands-on projects, college societies lik
 
 Despite being a cyber nerd, I still need 5 alarms to wake up. 😅  
 Because *even a firewall can’t stop me from hitting snooze*. 🔐⏰
+
